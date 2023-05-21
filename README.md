@@ -9,9 +9,9 @@ A proposta deste projeto é realizar uma análise e extrair insights de um conju
 
 
 ```
-├── README.md                                 <- Este documento
+├── README.md            <- Este documento
 ├── NLP_A3.ipynb         <- Google Colab notebook com a análise realizada
-├── dados                                     <- Diretório onde colocar os dados (baixar no link abaixo)
+├── dados                <- Diretório onde colocar os dados (baixar no link abaixo)
 ```
                           
 ## 3. Fonte de dados
