@@ -9,6 +9,7 @@ A proposta deste projeto é realizar uma análise e extrair insights de um conju
 
 
 ```
+├── A3Data.pptx       <- Slide com apresentação da solução 
 ├── NLP_A3.ipynb      <- Google Colab notebook com a análise realizada 
 ├── README.md         <- Este documento
 ├── id_desc.csv       <- Diretório onde acessar os dados (baixar no link)
